@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-surface text-ink antialiased;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  touch-action: manipulation;
+}
+
+:focus-visible {
+  @apply outline-2 outline-offset-2 outline-brand;
+}
+
+/* Hide scrollbar for Chrome, Safari, Opera and IE, Edge, Firefox */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* MapLibre Modern Popups & Controls Polish */
+.maplibregl-popup {
+  z-index: 30;
+}
+
+.maplibregl-popup-content {
+  border-radius: 1rem !important;
+  box-shadow: 0 10px 25px -5px rgba(11, 31, 51, 0.12), 0 8px 10px -6px rgba(11, 31, 51, 0.08) !important;
+  border: 1px solid #E3E8EF !important;
+  padding: 12px 14px !important;
+  background-color: #ffffff !important;
+}
+
+.maplibregl-popup-close-button {
+  padding: 4px 8px !important;
+  font-size: 16px !important;
+  color: #5B6B7F !important;
+  border-radius: 9999px !important;
+  transition: all 0.15s ease !important;
+  right: 6px !important;
+  top: 6px !important;
+  outline: none !important;
+}
+
+.maplibregl-popup-close-button:hover {
+  background-color: #F5F7FA !important;
+  color: #0B1F33 !important;
+}
+
+.maplibregl-popup-anchor-top .maplibregl-popup-tip {
+  border-bottom-color: #ffffff !important;
+}
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+  border-top-color: #ffffff !important;
+}
+.maplibregl-popup-anchor-left .maplibregl-popup-tip {
+  border-right-color: #ffffff !important;
+}
+.maplibregl-popup-anchor-right .maplibregl-popup-tip {
+  border-left-color: #ffffff !important;
+}
+
+.maplibregl-ctrl-group {
+  border-radius: 0.875rem !important;
+  box-shadow: 0 4px 16px rgba(11, 31, 51, 0.08) !important;
+  border: 1px solid #E3E8EF !important;
+  overflow: hidden !important;
+  background-color: #ffffff !important;
+}
+
+.maplibregl-ctrl-group button {
+  width: 34px !important;
+  height: 34px !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.maplibregl-ctrl-group button:hover {
+  background-color: #F5F7FA !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

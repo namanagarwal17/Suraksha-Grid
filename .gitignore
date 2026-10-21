@@ -1,0 +1,38 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# build output
+.next/
+out/
+dist/
+
+# env — NEVER commit real keys
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+backend/.venv/
+
+# misc
+.DS_Store
+*.log
+
+# Crime dataset files — never commit real data
+data/crime/raw/*
+!data/crime/raw/.gitkeep
+
+# Local editor and generated files
+.vscode/
+*.tsbuildinfo
+*.backup.json

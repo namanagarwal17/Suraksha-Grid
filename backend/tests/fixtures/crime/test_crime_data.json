@@ -1,0 +1,16 @@
+[
+  {
+    "state_name": "Maharashtra",
+    "district_name": "Pune",
+    "crime_category": "Theft",
+    "incident_count": 100,
+    "year": 2022
+  },
+  {
+    "state_name": "Delhi",
+    "district_name": "South",
+    "crime_category": "Robbery",
+    "incident_count": 50,
+    "year": 2021
+  }
+]

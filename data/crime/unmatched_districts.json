@@ -1,0 +1,1748 @@
+{
+  "summary": {
+    "null_geometry_pairs": 959,
+    "attached_pairs": 614,
+    "attached_db_rows": 0,
+    "non_territorial": 76,
+    "unmatched": 269,
+    "errors": 0,
+    "dry_run": true
+  },
+  "match_breakdown": {
+    "exact": 526,
+    "normalized": 0,
+    "alias": 58,
+    "stripped": 30,
+    "non_territorial": 76,
+    "unmatched": 269
+  },
+  "unmatched_districts": [
+    {
+      "state": "A&N Islands",
+      "district": "Nicobar",
+      "record_count": 4
+    },
+    {
+      "state": "A&N Islands",
+      "district": "North & Middle Andaman",
+      "record_count": 4
+    },
+    {
+      "state": "A&N Islands",
+      "district": "South Andaman",
+      "record_count": 4
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Alluri Sitharama Raju",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Anakapalli",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Anantapuramu",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Annamayya",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Bapatla",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Dr BR Ambedkar Konaseema",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Eluru",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Kakinada",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "NTR",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Nandyal",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Palnadu",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Parvathipuram Manyam",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Sri Potti Sriramulu Nellore",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Sri Sathya Sai",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Tirupati",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "YSR",
+      "record_count": 2
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Anjaw",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Changlang",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Dibang Valley",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kameng East",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kameng West",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kamle",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kra Dadi",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Kurung Kumey",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Leparada",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lohit",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Longding",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Dibang Valley",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Lower Siang",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Namsai",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Pakkessang",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Papum Pare City",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Papum Pare Rural",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Shiyomi",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang East",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang Upper",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Siang West",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Subansiri Lower",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Subansiri Upper",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Tawang",
+      "record_count": 4
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Tirap",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "BIEO",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Bajali",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Guwahati City",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Hamren",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Morigaon",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "RPO",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "SOU",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Sadia",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Sibsagar",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "South Salmara",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "Tamulpur",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Anti Terrorist Squad",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Bagaha",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Bettiah",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Economic Offences Unit",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Kaimur(Bhabhua)",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Motihari",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Naugachia",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Nawadah",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Purnea",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Balodbazar",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bemetra",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Bizapur",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Dantewara",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Gaurela-Pendra-Marwari",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Jagdalpur",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Janjgir",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Khairagarh - Chhuikhadan-Gandai",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Koriya",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Manendragarh-Chirmiri-Bharatpur",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mohla-Manpur-Ambagarh Chouki",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Mungali",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Sakti",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Sarangarh-Bilaigarh",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "Sarguja",
+      "record_count": 4
+    },
+    {
+      "state": "D&N Haveli and Daman & Diu",
+      "district": "D&N Haveli",
+      "record_count": 4
+    },
+    {
+      "state": "D&N Haveli and Daman & Diu",
+      "district": "Daman",
+      "record_count": 4
+    },
+    {
+      "state": "D&N Haveli and Daman & Diu",
+      "district": "Diu",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Dwarka",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Metro",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Outer",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Outer North",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Rohini",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Ahmedabad City",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Ahmedabad Rural",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Banaskantha",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Dahod",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Kachchh East(G)",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Kachchh West(B)",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Mehsana",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Panchmahal",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Sabarkantha",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "W Rly Ahmedabad",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "W Rly Vadodara",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "Charkhi Dadri",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "Hansi",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "Hissar",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "Irrigation & Power",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "Mahendergarh",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Baddi",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Lahaul & Spiti",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Nurpur",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Anti Narcotic Task Force Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Anti Narcotic Task Force Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Awantipora",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "CICE Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "CICE Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Handwara",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Railways Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Railways Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Railways Katra",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Sopore",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Chaibasa",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Jamshedpur",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Lohardagga",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Saraikela",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Bagalkot",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Chamarajnagar",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Davanagere",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "KRailways",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Shimoga",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Vijayanagara",
+      "record_count": 4
+    },
+    {
+      "state": "Karnataka",
+      "district": "Yadgiri",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Alapuzha",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Kasargod",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Railways",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Trivandrum Rural",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Wayanadu",
+      "record_count": 4
+    },
+    {
+      "state": "Ladakh",
+      "district": "Leh",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Agar",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Ashok Nagar",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Bhopal Commissionarate",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Indore Commissionarate",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Khandwa",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Chhatrapati Sambhajinagar Commr",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Chhatrapati Sambhajinagar Rural",
+      "record_count": 4
+    },
+    {
+      "state": "Manipur",
+      "district": "Narcotic",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Garo Hills East",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Garo Hills North",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Garo Hills South",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Garo Hills South West",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Garo Hills West",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Jaintia Hills East",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Jaintia Hills West",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Khasi Hills East",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Khasi Hills Eastern West",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Khasi Hills South West",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Khasi Hills West",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Hnahthial",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Khawzawl",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Saitual",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Spl Narcotic",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Crime",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Narcotics",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Noklak",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Shamator",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Tseminyu",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Angul",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Balasore",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Baragarh",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Berhampur",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Bolangir",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "DCP BBSR",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "DCP CTC",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Jagatsinghpur",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Jajpur",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Keonjhar",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Khurda",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "Rourkela",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "SRP(Cuttack)",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "SRP(Rourkela)",
+      "record_count": 4
+    },
+    {
+      "state": "Puducherry",
+      "district": "Puducherry",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Batala",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Bureau of Investigation",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "CP Amritsar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "CP Jalandhar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "CP Ludhiana",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Intelligence Wing",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Khanna",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Malerkotla",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Muktsar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "NRI Wing",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Ropar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "SAS Nagar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "SBS Nagar",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Special Task Force",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Anupgarh",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Didwana-Kuchaman",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Khairtal-Tijara",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "Kotputli-Behror",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Gangtok (East)",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Gyalshing (West)",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Mangan (North)",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Namchi (South)",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Pakyong (East)",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "Soreng (West)",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Avadi",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Kanyakumari",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Mayiladuthurai",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Nilgiris",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Other Units",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Pudukottai",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Ramnathapuram",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Sivagangai",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tambaram",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thirunelveli",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thirunelveli City",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thiruvannamalai",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Thoothukudi",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Tiruppattur",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Trichy",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Trichy City",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Cyberabad Commissionerate",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Jagityal",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Jayashankar Bhupalpalli",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Kumaram Bheem Asifabad",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Mulug",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Rachakonda Commissionerate",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Rajanna Siricilla",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Ramagundam Commissionerate",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "Kowai",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "North",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "Sipahijala",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "South",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "West",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Badaun",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Bulandshahar",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Chandoli",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Fatehgarh",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Gautambudh Nagar",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Kanpur Commissionarate",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Khiri",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Lucknow Commissionarate",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Raibareilly",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Sant Kabirnagar",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Shrawasti",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Sidharthnagar",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "Varanasi Commissionarate",
+      "record_count": 4
+    },
+    {
+      "state": "Uttarakhand",
+      "district": "Udhamsingh Nagar",
+      "record_count": 4
+    },
+    {
+      "state": "Uttarakhand",
+      "district": "Uttarkashi",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Asansol-Durgapur PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Bangaon",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Barasat",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Barrackpur PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Baruipur Police",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Basirhat",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Bidhannagar PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Chandannagar PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Dakshin Dinajpur",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Diamond Harbour Police",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Hooghly Rural Police",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Howrah PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Islampur",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Jangipur Police District",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Krishnagar",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Malda",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Murshidabad Police District",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Paschim Medinipur",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Purab Medinipur",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Raiganj",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Ranaghat",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Siliguri PC",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Sundarban Police",
+      "record_count": 4
+    }
+  ],
+  "non_territorial_units": [
+    {
+      "state": "Andhra Pradesh",
+      "district": "Guntakal Railway",
+      "record_count": 2
+    },
+    {
+      "state": "Andhra Pradesh",
+      "district": "Viiayawada Railway",
+      "record_count": 2
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "district": "Crime Branch",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "CID",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Assam",
+      "district": "STF",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Jamalpur Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Katihar Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Muzaffarpur Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Bihar",
+      "district": "Patna Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Chhattisgarh",
+      "district": "GRP Raipur",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Crime Branch",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "EOW",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "IGI Airport",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "RAILWAY",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "SPUWAC",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Spl Cell",
+      "record_count": 4
+    },
+    {
+      "state": "Delhi",
+      "district": "Vigilance",
+      "record_count": 4
+    },
+    {
+      "state": "Goa",
+      "district": "CID",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "CID Crime",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Ahmedabad Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Bhavnagar Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Border Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Gandhinagar Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Junagadh Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Panchmahal Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Rajkot Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Surat Range",
+      "record_count": 4
+    },
+    {
+      "state": "Gujarat",
+      "district": "Cyber Vadodara Range",
+      "record_count": 4
+    },
+    {
+      "state": "Haryana",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "CID",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Cyber",
+      "record_count": 4
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Cyber Crime Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Cyber Crime Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "EOW Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "EOW Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Special Crime Wing Jammu",
+      "record_count": 4
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "district": "Special Crime Wing Kashmir",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Dhanbad Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Jharkhand",
+      "district": "Jamshedpur Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Kerala",
+      "district": "Crime Branch",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Bhopal Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Cyber Crime Cell",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Indore Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Madhya Pradesh",
+      "district": "Jabalpur Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Chhatrapati Sambhajinagar Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Mumbai Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Nagpur Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Pune Railway",
+      "record_count": 4
+    },
+    {
+      "state": "Manipur",
+      "district": "CID",
+      "record_count": 4
+    },
+    {
+      "state": "Meghalaya",
+      "district": "Cyber Cell",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Crime and EOU",
+      "record_count": 4
+    },
+    {
+      "state": "Mizoram",
+      "district": "Cyber",
+      "record_count": 4
+    },
+    {
+      "state": "Nagaland",
+      "district": "Cyber Security",
+      "record_count": 4
+    },
+    {
+      "state": "Odisha",
+      "district": "CID CB",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "Cyber Crime Wing",
+      "record_count": 4
+    },
+    {
+      "state": "Punjab",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "ATS & SOG",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "GRP Ajmer",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "GRP Jodhpur",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "SCRB",
+      "record_count": 4
+    },
+    {
+      "state": "Rajasthan",
+      "district": "SSB",
+      "record_count": 4
+    },
+    {
+      "state": "Sikkim",
+      "district": "CID",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Cyber Cell",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Railway Chennai",
+      "record_count": 4
+    },
+    {
+      "state": "Tamil Nadu",
+      "district": "Railway Trichy",
+      "record_count": 4
+    },
+    {
+      "state": "Telangana",
+      "district": "Railway Police Secunderabad",
+      "record_count": 4
+    },
+    {
+      "state": "Tripura",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Uttar Pradesh",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "Uttarakhand",
+      "district": "Cyber Cell",
+      "record_count": 4
+    },
+    {
+      "state": "Uttarakhand",
+      "district": "GRP",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Howrah GRP",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Kharagpur GRP",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Sealdah GRP",
+      "record_count": 4
+    },
+    {
+      "state": "West Bengal",
+      "district": "Siliguri GRP",
+      "record_count": 4
+    }
+  ]
+}
